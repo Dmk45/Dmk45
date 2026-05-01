@@ -14,7 +14,7 @@ Most of my repositories include experimental work, and some documentation is AI-
 
 * **ML Framework (Zig + Rust)**
   Exploring machine learning systems using low-level, high-performance languages (both new to me).
-  [https://github.com/Dmk45/modelwork2](https://github.com/Dmk45/modelwork2)
+  [https://github.com/Dmk45/WorkFrameWork](https://github.com/Dmk45/WorkFrameWork)
 
 * **Trading Bot**
   Algorithmic trading system with ongoing experimentation and improvements.
